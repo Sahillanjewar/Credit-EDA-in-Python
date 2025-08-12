@@ -82,7 +82,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/credit-eda-python.git
+https://github.com/Sahillanjewar/Credit-EDA-in-Python/tree/main
 cd credit-eda-python
 Install required libraries:
 
